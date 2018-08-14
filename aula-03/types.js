@@ -1,5 +1,6 @@
-function logMessage(message) {
+function log(message) {
     console.log(message);
 }
-logMessage('Hello world');
-logMessage('Hello');
+log('Hello world');
+log(123);
+//# sourceMappingURL=types.js.map

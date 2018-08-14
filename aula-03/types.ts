@@ -1,6 +1,6 @@
-function logMessage(message: string) {
+function log(message: any) {
     console.log(message)
 }
 
-logMessage('Hello world')
-logMessage('Hello')
+log('Hello world')
+log(123)
